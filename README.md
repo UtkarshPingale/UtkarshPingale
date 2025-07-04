@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UtkarshPingale
-- 👀 I’m interested in program languages like C,C++,Python,HTML,CSS,Java(little bit).....
-- 🌱 I’m currently working with Machine Learning, Data Science, Artifical Intelligence, Block Chain
-- 💞️ I’m looking to collaborate or internship ...
+- 👀 I have comfortable with Python, Blockchain, AI/ML, Data Science, R, Java.
+- 🌱 I’m currently working on R and Gen AI
+- 💞️ I’m looking for job and internship
 - 📫 How to reach me by
 - linkedin --> www.linkedin.com/in/utkarsh-pingale-869b88192 (mostly)
 - e-mail --> utkarshpingale11@gmail.com
